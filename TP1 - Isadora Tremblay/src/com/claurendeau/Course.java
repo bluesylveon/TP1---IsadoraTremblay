@@ -1,5 +1,5 @@
 package com.claurendeau;
-
+//TEST
 public class Course {
 	
 	private int nbLapins = getNombreLapinsDansLaCourse();
